@@ -1,7 +1,7 @@
 ## iOS Tweak:
 
 <a href="#stats">
-  <img align="center" src="[https://havoc.app/package/twistnturn](https://media.havoc.app/63b4665f19ee9124e588bc6e?w=3840&q=75)" alt="TwistNTurn">
+  <img align="center" src="https://media.havoc.app/63b4665f19ee9124e588bc6e?w=3840&q=75" alt="TwistNTurn">
 </a>
 
 ## My GitHub Stats:
