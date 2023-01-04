@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## iOS Tweak:
 
 <a href="#stats">
