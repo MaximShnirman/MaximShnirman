@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-**TwistNTurn tweak**
+iOS Tweak:
 <a href="#stats">
   <img align="center" src="https://havoc.app/package/twistnturn" alt="TwistNTurn">
 </a>
-
-![](https://havoc.app/package/twistnturn)
-
 
 ## My GitHub Stats:
 
