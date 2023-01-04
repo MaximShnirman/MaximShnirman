@@ -1,6 +1,6 @@
 ## iOS Tweak:
 
-<img src=""https://media.havoc.app/63b4665f19ee9124e588bc6e?w=3840&q=75" width="25px"> **[TwistNTurn](https://havoc.app/package/twistnturn)**
+<img src="https://media.havoc.app/63b4665f19ee9124e588bc6e?w=3840&q=75" width="25px"> **[TwistNTurn](https://havoc.app/package/twistnturn)**
 
 ## My GitHub Stats:
 
@@ -13,18 +13,3 @@
 <a href="#stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaximShnirman&include_all_commits=true&theme=dracula&show_icons=true&count_private=true">
 </a>
-
-<!--
-**MaximShnirman/MaximShnirman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
